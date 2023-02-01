@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RoomExample"
         mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="ExitButton" Content="Выход" HorizontalAlignment="Right" Margin="0,10,20,0" VerticalAlignment="Top" Width="85" Height="30" Click="ExitButton_Click"/>
